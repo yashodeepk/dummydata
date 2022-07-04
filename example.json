@@ -2,13 +2,13 @@
   {
     "id": "12",
     "waitingNumber": "24",
-    "name": "Yashodeep Kacholiya",
+    "label": "Yashodeep Kacholiya",
     "guestCount": "3"
   },
   {
     "id": "13",
     "waitingNumber": "25",
-    "name": "Saurabh Kacholiya",
+    "label": "Saurabh Kacholiya",
     "guestCount": "5"
   },
   {
