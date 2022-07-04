@@ -3,36 +3,42 @@
     "id": "12",
     "waitingNumber": "24",
     "label": "Yashodeep Kacholiya",
-    "guestCount": "3"
+    "guestCount": "3",
+    "isSelected": false
   },
   {
     "id": "13",
     "waitingNumber": "25",
     "label": "Saurabh Kacholiya",
-    "guestCount": "5"
+    "guestCount": "5",
+    "isSelected": false
   },
   {
     "id": "14",
     "waitingNumber": "26",
     "label": "Kunal",
-    "guestCount": "7"
+    "guestCount": "7",
+    "isSelected": false
   },
   {
     "id": "15",
     "waitingNumber": "27",
     "label": "Divyakant",
-    "guestCount": "5"
+    "guestCount": "5",
+    "isSelected": false
   },
   {
     "id": "16",
     "waitingNumber": "28",
     "label": "Yash Kacho",
-    "guestCount": "2"
+    "guestCount": "2",
+    "isSelected": false
   },
   {
     "id": "17",
     "waitingNumber": "29",
     "label": "deep liya",
-    "guestCount": "3"
+    "guestCount": "3",
+    "isSelected": false
   }
 ]
